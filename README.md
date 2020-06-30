@@ -1,2 +1,3 @@
 # Android
-Projects regarding the use of java as android application in scholar context
+Projects regarding the use of Java as android application in scholar context.
+<br/> Teacher: Bernhard Thomaszewski
